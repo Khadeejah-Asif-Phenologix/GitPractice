@@ -53,3 +53,4 @@ git switch -c <branchName>
 
 <!-- To merge data from a branch of a Github -->
 git merge <branchName>
+
