@@ -54,4 +54,7 @@ git switch -c <branchName>
 <!-- To merge data from a branch of a Github -->
 git merge <branchName>
 
-2025 
+<!-- To abort any merge -->
+git merge --abort
+
+2025 is coming
