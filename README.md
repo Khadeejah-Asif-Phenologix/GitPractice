@@ -58,3 +58,9 @@ git merge <branchName>
 git merge --abort
 
 2025 is coming
+
+<!-- To rename a branch -->
+ git branch -m <oldname> <newname>
+
+<!-- To check the comparison between two files, branches & much more -->
+git diff <branchOneName> <branchTwoName>
