@@ -58,3 +58,7 @@ git merge <branchName>
 git merge --abort
 
 2025 is coming
+
+<!-- To rename a branch -->
+ git branch -m <oldname> <newname>
+
