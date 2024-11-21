@@ -38,3 +38,6 @@ git branch
 <!-- To create a new branch -->
 git branch <branchName>
 
+git checkout -b <branchName>
+
+<!-- To switch branch -->
