@@ -64,3 +64,12 @@ git merge --abort
 
 <!-- To check the comparison between two files, branches & much more -->
 git diff <branchOneName> <branchTwoName>
+
+<!-- To switch to another branch without commiting the changes -->
+git stash
+
+<!-- To name a git stash -->
+git stash name "NameOfTheStash"
+
+<!-- To view git stash list -->
+git stash list
