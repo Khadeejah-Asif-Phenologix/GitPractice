@@ -31,3 +31,10 @@ git log --oneline
 
 <!-- .gitignore -->
 Add the filenames that are confidential in this file and that we don't want to commit in GitHub
+
+<!-- To check in which branch we are currently in -->
+git branch
+
+<!-- To create a new branch -->
+git branch <branchName>
+
