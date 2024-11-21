@@ -73,3 +73,19 @@ git stash name "NameOfTheStash"
 
 <!-- To view git stash list -->
 git stash list
+
+<!-- To apply a stash -->
+git stash apply
+
+<!-- To apply and remove a stash -->
+git stash pop
+
+<!-- To clear a stash -->
+git stash clear
+
+<!-- To add a tag -->
+git tag
+
+<!-- To create a tag -->
+git tag <tagName>
+
