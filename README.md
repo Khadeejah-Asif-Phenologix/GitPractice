@@ -41,3 +41,11 @@ git branch <branchName>
 git checkout -b <branchName>
 
 <!-- To switch branch -->
+git switch <branchName>
+
+git checkout <branchName>
+
+<!-- To make a new branch & then switch into it -->
+git switch -c <branchName>
+
+<!-- To merge data from a branch of a Github -->
