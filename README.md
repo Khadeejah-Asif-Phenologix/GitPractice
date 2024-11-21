@@ -45,7 +45,11 @@ git switch <branchName>
 
 git checkout <branchName>
 
+<!-- To add an upstream branch -->
+git push --set-upstream origin <branchName>
+
 <!-- To make a new branch & then switch into it -->
 git switch -c <branchName>
 
 <!-- To merge data from a branch of a Github -->
+git merge <branchName>
