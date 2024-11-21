@@ -62,3 +62,5 @@ git merge --abort
 <!-- To rename a branch -->
  git branch -m <oldname> <newname>
 
+<!-- To check the comparison between two files, branches & much more -->
+git diff <branchOneName> <branchTwoName>
